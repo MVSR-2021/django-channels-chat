@@ -1,0 +1,7 @@
+mysqlclient
+Django
+djangorestframework
+django-filter
+Markdown
+channels
+pytz
